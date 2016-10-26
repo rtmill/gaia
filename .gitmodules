@@ -1,3 +1,6 @@
 [submodule "gaia-visualize"]
 	path = gaia-visualize
 	url = https://github.com/rtmill/gaia-visualize
+[submodule "gaia-prepare"]
+	path = gaia-prepare
+	url = https://github.com/rtmill/gaia-prepare
