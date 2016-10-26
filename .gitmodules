@@ -4,3 +4,6 @@
 [submodule "gaia-prepare"]
 	path = gaia-prepare
 	url = https://github.com/rtmill/gaia-prepare
+[submodule "gaia-extract"]
+	path = gaia-extract
+	url = https://github.com/rtmill/gaia-extract
