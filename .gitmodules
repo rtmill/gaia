@@ -1,0 +1,3 @@
+[submodule "gaia-visualize"]
+	path = gaia-visualize
+	url = https://github.com/rtmill/gaia-visualize
